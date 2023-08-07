@@ -1,0 +1,7 @@
+D:\Dot_Net_C_Sharp\15_ListApp\15_ListApp\bin\Debug\15_ListApp.exe.config
+D:\Dot_Net_C_Sharp\15_ListApp\15_ListApp\bin\Debug\15_ListApp.exe
+D:\Dot_Net_C_Sharp\15_ListApp\15_ListApp\bin\Debug\15_ListApp.pdb
+D:\Dot_Net_C_Sharp\15_ListApp\15_ListApp\obj\Debug\15_ListApp.csproj.AssemblyReference.cache
+D:\Dot_Net_C_Sharp\15_ListApp\15_ListApp\obj\Debug\15_ListApp.csproj.CoreCompileInputs.cache
+D:\Dot_Net_C_Sharp\15_ListApp\15_ListApp\obj\Debug\15_ListApp.exe
+D:\Dot_Net_C_Sharp\15_ListApp\15_ListApp\obj\Debug\15_ListApp.pdb

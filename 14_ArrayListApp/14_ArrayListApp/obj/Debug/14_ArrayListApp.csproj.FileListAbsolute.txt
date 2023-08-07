@@ -1,7 +1,0 @@
-C:\Users\Hamim\source\repos\14_ArrayListApp\14_ArrayListApp\bin\Debug\14_ArrayListApp.exe.config
-C:\Users\Hamim\source\repos\14_ArrayListApp\14_ArrayListApp\bin\Debug\14_ArrayListApp.exe
-C:\Users\Hamim\source\repos\14_ArrayListApp\14_ArrayListApp\bin\Debug\14_ArrayListApp.pdb
-C:\Users\Hamim\source\repos\14_ArrayListApp\14_ArrayListApp\obj\Debug\14_ArrayListApp.csproj.AssemblyReference.cache
-C:\Users\Hamim\source\repos\14_ArrayListApp\14_ArrayListApp\obj\Debug\14_ArrayListApp.csproj.CoreCompileInputs.cache
-C:\Users\Hamim\source\repos\14_ArrayListApp\14_ArrayListApp\obj\Debug\14_ArrayListApp.exe
-C:\Users\Hamim\source\repos\14_ArrayListApp\14_ArrayListApp\obj\Debug\14_ArrayListApp.pdb
