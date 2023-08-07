@@ -1,0 +1,16 @@
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\bin\Debug\net5.0\DoWhileApp.exe
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\bin\Debug\net5.0\DoWhileApp.deps.json
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\bin\Debug\net5.0\DoWhileApp.runtimeconfig.json
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\bin\Debug\net5.0\DoWhileApp.runtimeconfig.dev.json
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\bin\Debug\net5.0\DoWhileApp.dll
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\bin\Debug\net5.0\ref\DoWhileApp.dll
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\bin\Debug\net5.0\DoWhileApp.pdb
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\obj\Debug\net5.0\DoWhileApp.csproj.AssemblyReference.cache
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\obj\Debug\net5.0\DoWhileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\obj\Debug\net5.0\DoWhileApp.AssemblyInfoInputs.cache
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\obj\Debug\net5.0\DoWhileApp.AssemblyInfo.cs
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\obj\Debug\net5.0\DoWhileApp.csproj.CoreCompileInputs.cache
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\obj\Debug\net5.0\DoWhileApp.dll
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\obj\Debug\net5.0\ref\DoWhileApp.dll
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\obj\Debug\net5.0\DoWhileApp.pdb
+C:\Users\Hamim\source\repos\DoWhileApp\DoWhileApp\obj\Debug\net5.0\DoWhileApp.genruntimeconfig.cache

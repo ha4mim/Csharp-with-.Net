@@ -1,0 +1,16 @@
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\bin\Debug\net5.0\WhileLoopApp.exe
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\bin\Debug\net5.0\WhileLoopApp.deps.json
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\bin\Debug\net5.0\WhileLoopApp.runtimeconfig.json
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\bin\Debug\net5.0\WhileLoopApp.runtimeconfig.dev.json
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\bin\Debug\net5.0\WhileLoopApp.dll
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\bin\Debug\net5.0\ref\WhileLoopApp.dll
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\bin\Debug\net5.0\WhileLoopApp.pdb
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\obj\Debug\net5.0\WhileLoopApp.csproj.AssemblyReference.cache
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\obj\Debug\net5.0\WhileLoopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\obj\Debug\net5.0\WhileLoopApp.AssemblyInfoInputs.cache
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\obj\Debug\net5.0\WhileLoopApp.AssemblyInfo.cs
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\obj\Debug\net5.0\WhileLoopApp.csproj.CoreCompileInputs.cache
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\obj\Debug\net5.0\WhileLoopApp.dll
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\obj\Debug\net5.0\ref\WhileLoopApp.dll
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\obj\Debug\net5.0\WhileLoopApp.pdb
+C:\Users\Hamim\source\repos\WhileLoopApp\WhileLoopApp\obj\Debug\net5.0\WhileLoopApp.genruntimeconfig.cache

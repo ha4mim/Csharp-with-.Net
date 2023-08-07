@@ -1,0 +1,16 @@
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\bin\Debug\net5.0\13_ArrayAppChallange.exe
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\bin\Debug\net5.0\13_ArrayAppChallange.deps.json
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\bin\Debug\net5.0\13_ArrayAppChallange.runtimeconfig.json
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\bin\Debug\net5.0\13_ArrayAppChallange.runtimeconfig.dev.json
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\bin\Debug\net5.0\13_ArrayAppChallange.dll
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\bin\Debug\net5.0\ref\13_ArrayAppChallange.dll
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\bin\Debug\net5.0\13_ArrayAppChallange.pdb
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\obj\Debug\net5.0\13_ArrayAppChallange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\obj\Debug\net5.0\13_ArrayAppChallange.AssemblyInfoInputs.cache
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\obj\Debug\net5.0\13_ArrayAppChallange.AssemblyInfo.cs
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\obj\Debug\net5.0\13_ArrayAppChallange.csproj.CoreCompileInputs.cache
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\obj\Debug\net5.0\13_ArrayAppChallange.dll
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\obj\Debug\net5.0\ref\13_ArrayAppChallange.dll
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\obj\Debug\net5.0\13_ArrayAppChallange.pdb
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\obj\Debug\net5.0\13_ArrayAppChallange.genruntimeconfig.cache
+D:\Dot_Net_C_Sharp\13_ArrayAppChallange\13_ArrayAppChallange\obj\Debug\net5.0\13_ArrayAppChallange.csproj.AssemblyReference.cache

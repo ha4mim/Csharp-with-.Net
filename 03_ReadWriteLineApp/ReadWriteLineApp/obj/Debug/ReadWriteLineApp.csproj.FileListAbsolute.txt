@@ -1,0 +1,7 @@
+D:\Dot_Net_C_Sharp\ReadWriteLineApp\ReadWriteLineApp\bin\Debug\ReadWriteLineApp.exe.config
+D:\Dot_Net_C_Sharp\ReadWriteLineApp\ReadWriteLineApp\bin\Debug\ReadWriteLineApp.exe
+D:\Dot_Net_C_Sharp\ReadWriteLineApp\ReadWriteLineApp\bin\Debug\ReadWriteLineApp.pdb
+D:\Dot_Net_C_Sharp\ReadWriteLineApp\ReadWriteLineApp\obj\Debug\ReadWriteLineApp.csproj.AssemblyReference.cache
+D:\Dot_Net_C_Sharp\ReadWriteLineApp\ReadWriteLineApp\obj\Debug\ReadWriteLineApp.csproj.CoreCompileInputs.cache
+D:\Dot_Net_C_Sharp\ReadWriteLineApp\ReadWriteLineApp\obj\Debug\ReadWriteLineApp.exe
+D:\Dot_Net_C_Sharp\ReadWriteLineApp\ReadWriteLineApp\obj\Debug\ReadWriteLineApp.pdb

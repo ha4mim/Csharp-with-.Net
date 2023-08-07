@@ -1,0 +1,16 @@
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\bin\Debug\net5.0\11_MethodChalleApp.exe
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\bin\Debug\net5.0\11_MethodChalleApp.deps.json
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\bin\Debug\net5.0\11_MethodChalleApp.runtimeconfig.json
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\bin\Debug\net5.0\11_MethodChalleApp.runtimeconfig.dev.json
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\bin\Debug\net5.0\11_MethodChalleApp.dll
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\bin\Debug\net5.0\ref\11_MethodChalleApp.dll
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\bin\Debug\net5.0\11_MethodChalleApp.pdb
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\obj\Debug\net5.0\11_MethodChalleApp.csproj.AssemblyReference.cache
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\obj\Debug\net5.0\11_MethodChalleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\obj\Debug\net5.0\11_MethodChalleApp.AssemblyInfoInputs.cache
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\obj\Debug\net5.0\11_MethodChalleApp.AssemblyInfo.cs
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\obj\Debug\net5.0\11_MethodChalleApp.csproj.CoreCompileInputs.cache
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\obj\Debug\net5.0\11_MethodChalleApp.dll
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\obj\Debug\net5.0\ref\11_MethodChalleApp.dll
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\obj\Debug\net5.0\11_MethodChalleApp.pdb
+D:\Dot_Net_C_Sharp\11_MethodChalleApp\11_MethodChalleApp\obj\Debug\net5.0\11_MethodChalleApp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\bin\Debug\net5.0\MethodApp.exe
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\bin\Debug\net5.0\MethodApp.deps.json
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\bin\Debug\net5.0\MethodApp.runtimeconfig.json
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\bin\Debug\net5.0\MethodApp.runtimeconfig.dev.json
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\bin\Debug\net5.0\MethodApp.dll
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\bin\Debug\net5.0\ref\MethodApp.dll
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\bin\Debug\net5.0\MethodApp.pdb
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\obj\Debug\net5.0\MethodApp.csproj.AssemblyReference.cache
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\obj\Debug\net5.0\MethodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\obj\Debug\net5.0\MethodApp.AssemblyInfoInputs.cache
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\obj\Debug\net5.0\MethodApp.AssemblyInfo.cs
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\obj\Debug\net5.0\MethodApp.csproj.CoreCompileInputs.cache
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\obj\Debug\net5.0\MethodApp.dll
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\obj\Debug\net5.0\ref\MethodApp.dll
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\obj\Debug\net5.0\MethodApp.pdb
+C:\Users\Hamim\source\repos\MethodApp\MethodApp\obj\Debug\net5.0\MethodApp.genruntimeconfig.cache

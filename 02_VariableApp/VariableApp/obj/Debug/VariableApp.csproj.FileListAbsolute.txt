@@ -1,0 +1,6 @@
+D:\Dot_Net_C_Sharp\VariableApp\VariableApp\obj\Debug\VariableApp.csproj.CoreCompileInputs.cache
+D:\Dot_Net_C_Sharp\VariableApp\VariableApp\bin\Debug\VariableApp.exe.config
+D:\Dot_Net_C_Sharp\VariableApp\VariableApp\bin\Debug\VariableApp.exe
+D:\Dot_Net_C_Sharp\VariableApp\VariableApp\bin\Debug\VariableApp.pdb
+D:\Dot_Net_C_Sharp\VariableApp\VariableApp\obj\Debug\VariableApp.exe
+D:\Dot_Net_C_Sharp\VariableApp\VariableApp\obj\Debug\VariableApp.pdb

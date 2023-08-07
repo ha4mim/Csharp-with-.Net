@@ -1,0 +1,16 @@
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\bin\Debug\net5.0\12_ArrayApp.exe
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\bin\Debug\net5.0\12_ArrayApp.deps.json
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\bin\Debug\net5.0\12_ArrayApp.runtimeconfig.json
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\bin\Debug\net5.0\12_ArrayApp.runtimeconfig.dev.json
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\bin\Debug\net5.0\12_ArrayApp.dll
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\bin\Debug\net5.0\ref\12_ArrayApp.dll
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\bin\Debug\net5.0\12_ArrayApp.pdb
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\obj\Debug\net5.0\12_ArrayApp.csproj.AssemblyReference.cache
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\obj\Debug\net5.0\12_ArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\obj\Debug\net5.0\12_ArrayApp.AssemblyInfoInputs.cache
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\obj\Debug\net5.0\12_ArrayApp.AssemblyInfo.cs
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\obj\Debug\net5.0\12_ArrayApp.csproj.CoreCompileInputs.cache
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\obj\Debug\net5.0\12_ArrayApp.dll
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\obj\Debug\net5.0\ref\12_ArrayApp.dll
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\obj\Debug\net5.0\12_ArrayApp.pdb
+D:\Dot_Net_C_Sharp\12_ArrayApp\12_ArrayApp\obj\Debug\net5.0\12_ArrayApp.genruntimeconfig.cache
